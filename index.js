@@ -9,5 +9,5 @@ function mostrarSuma(x, y) {
     console.log("El resultado de la suma es: ", resultadoSuma);
 }
 
-mostrarSuma(10, 5);
+mostrarSuma(10, 5); 
 // El resultado de la suma es: 15
